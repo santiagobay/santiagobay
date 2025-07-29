@@ -47,7 +47,7 @@
 
 ## 🌐 Conéctate conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/santiago-bayona-bohorquez" target="blank">
+  <a href="https://www.linkedin.com/in/santiago-bayona-bohorquez-1a7854249" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:santimax18@gmail.com" target="blank">
