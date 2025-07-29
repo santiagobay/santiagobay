@@ -47,11 +47,14 @@
 
 ## 🌐 Conéctate conmigo
 <p align="left">
-  <a href="https://linkedin.com/in/tuusuario" target="blank">
+  <a href="https://www.linkedin.com/in/santiago-bayona-bohorquez" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="blank">
+  <a href="mailto:santimax18@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="30" />
+  </a>
+  <a href="mailto:sbayonab@ucompensar.edu.com" target="blank">
+    <img align="center" src="https://img.icons8.com/fluency/48/microsoft-outlook-2019.png" alt="outlook" height="30" width="30" />
   </a>
 </p>
 
